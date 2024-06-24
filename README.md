@@ -1,6 +1,5 @@
 # Location-based-search-
-a website that gives location-based ameneties using node js and web scrapping using puppeteer API 
-
+a website that gives location-based  search for ameneties [resturants and hospitals] using node js and web scrapping using puppeteer API 
 
 server.js
 This is the server-side code that handles the form submission and interacts with Google Maps using Puppeteer.
