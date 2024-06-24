@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Google Maps Search</title>
+</head>
+<body>
+  <h1>Google Maps Search</h1>
+  <form id="city-form" action="/" method="post">
+    <label for="city">Enter city:</label>
+    <input type="text" id="city" name="city">
+    <button type="submit">Search</button>
+  </form>
+
+  <script src="script.js"></script>
+</body>
+</html>
